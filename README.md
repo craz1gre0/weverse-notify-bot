@@ -23,7 +23,7 @@
 
 [邀請機器人連結](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)
 
-[🔝 回到目錄](#-目錄)
+<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 #### 步驟 2：輸入指令
 
