@@ -77,13 +77,13 @@
 
 ## 📜 服務條款
 
-我的機器人遵循[開發人員服務條款](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service)。<br>
-我們提供weverse貼文的通知。<br>
-我們僅存取伺服器id,文字頻道id,你的語言，這些是必要的資料，用來發送訊息和翻譯。<br>
-您永遠不應該發送垃圾郵件命令或濫用機器人。你應該向機器人的所有者報告錯誤。<br>
-如果您濫用或垃圾郵件或垃圾談論我的機器人或其他機器人，您將被阻止。<br>
-您可以建議我們應該為機器人添加哪些功能。<br>
-感謝您使用我的機器人。<br>
+- 我的機器人遵循[開發人員服務條款](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service)。<br>
+- 我們提供weverse貼文的通知。<br>
+- 我們僅存取伺服器id,文字頻道id,你的語言，這些是必要的資料，用來發送訊息和翻譯。<br>
+- 您永遠不應該發送垃圾郵件命令或濫用機器人。你應該向機器人的所有者報告錯誤。<br>
+- 如果您濫用或垃圾郵件或垃圾談論我的機器人或其他機器人，您將被阻止。<br>
+- 您可以建議我們應該為機器人添加哪些功能。<br>
+- 感謝您使用我的機器人。<br>
 
 有任何問題歡迎你聯繫我們 steven951109@gmail.com
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
