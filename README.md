@@ -1,10 +1,10 @@
 ## 目錄
-1. [簡介](#功能)
-2. [使用方法](#使用方法)  
-   - [創建通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%89%B5%E5%BB%BA%E9%80%9A%E7%9F%A5)  
-   - [刪除通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%88%AA%E9%99%A4%E9%80%9A%E7%9F%A5)
-3. [服務條款](#服務條款)
-4. [免責聲明](#免責聲明)
+[簡介](#功能)
+[使用方法](#使用方法)  
+   [創建通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%89%B5%E5%BB%BA%E9%80%9A%E7%9F%A5)  
+   [刪除通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%88%AA%E9%99%A4%E9%80%9A%E7%9F%A5)
+[服務條款](#服務條款)
+[免責聲明](#免責聲明)
 
 ## 簡介
 
@@ -78,7 +78,7 @@
 我們提供weverse貼文的通知。<br>
 我們僅存取伺服器id,文字頻道id,你的語言，這些是必要的資料，用來發送訊息和翻譯。<br>
 您永遠不應該發送垃圾郵件命令或濫用機器人。你應該向機器人的所有者報告錯誤。<br>
-如果您濫用或垃圾郵件或垃圾談論我的機器人或其他機器人，您將被阻止<br>
+如果您濫用或垃圾郵件或垃圾談論我的機器人或其他機器人，您將被阻止。<br>
 您可以建議我們應該為機器人添加哪些功能。<br>
 感謝您使用我的機器人。<br>
 
