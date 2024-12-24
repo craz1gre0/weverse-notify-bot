@@ -1,3 +1,4 @@
+🌐Translated by AI<br>
 ## 📚 Menu
 1. [✨ Introduction](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#-introduction)  
 2. [🛠️ Usage](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#%EF%B8%8F-usage)  
