@@ -23,6 +23,8 @@
 
 [邀請機器人連結](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)
 
+[🔝 回到目錄](#-目錄)
+
 #### 步驟 2：輸入指令
 
 ⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
