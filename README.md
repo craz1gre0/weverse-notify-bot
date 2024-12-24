@@ -3,7 +3,7 @@
 2. [使用方法](#使用方法)  
    - [創建通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%89%B5%E5%BB%BA%E9%80%9A%E7%9F%A5)  
    - [刪除通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%88%AA%E9%99%A4%E9%80%9A%E7%9F%A5)
-3. [使用條款](#使用條款)
+3. [服務條款](#服務條款)
 4. [免責聲明](#免責聲明)
 
 ## 簡介
@@ -71,3 +71,7 @@
 4.刪除成功
 
 ![示意圖](images/delmsg.png)
+
+## 服務條款
+
+我的機器人遵循[開發人員服務條款](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service)
