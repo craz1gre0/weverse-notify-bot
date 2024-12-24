@@ -38,3 +38,8 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/createGroup.png?token=GHSAT0AAAAAAC4LS6DMTLYFZF6UK62S6YNMZ3KZ4WQ" alt="示意圖" width="900" height="250">
 </div>
+
+4.新增成功
+<div align="center">
+    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/createmsg.png?token=GHSAT0AAAAAAC4LS6DM4PQLWIQMDD5GUUAYZ3KZ54A" alt="示意圖" width="265" height="80">
+</div>
