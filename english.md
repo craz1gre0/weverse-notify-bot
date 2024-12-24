@@ -1,10 +1,10 @@
 ## 📚 Menu
-1. [✨ Introduction](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-introduction)  
-2. [🛠️ Usage](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-usage)  
-   - [📝 Create Notification](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-create-notification)  
-   - [🗑️ Delete Notification](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-delete-notification)  
-3. [📜 Terms of Service](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-terms-of-service)  
-4. [⚠️ Disclaimer](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-disclaimer)
+1. [✨ Introduction](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#-introduction)  
+2. [🛠️ Usage](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#%EF%B8%8F-usage)  
+   - [📝 Create Notification](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#-create-notification)  
+   - [🗑️ Delete Notification](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#%EF%B8%8F-delete-notification)  
+3. [📜 Terms of Service](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#-terms-of-service)  
+4. [⚠️ Disclaimer](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#%EF%B8%8F-disclaimer)
 
 ## ✨ Introduction
 
@@ -13,7 +13,7 @@
 This is a Discord Bot that provides notifications for Weverse posts.
 
 We offer support for all languages, as notifications will be translated based on your language.
-<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
+<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#-menu)
 
 ## 🛠️ Usage
 ### 📝 Create Notification
@@ -43,7 +43,7 @@ Required bot permissions:<br>
 4. Successfully created the notification.
 
 ![Example Image](images/createmsg.png)
-<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
+<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#-menu)
 
 ### 🗑️ Delete Notification
 #### Step 1: Ensure the Bot is in Your Server
@@ -72,7 +72,7 @@ Required bot permissions:<br>
 4. Successfully deleted the notification.
 
 ![Example Image](images/delmsg.png)
-<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
+<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#-menu)
 
 ## 📜 Terms of Service
 
@@ -85,7 +85,7 @@ You may suggest features to add to the bot.<br>
 Thank you for using my bot.<br>
 
 If you have any questions, feel free to contact us at steven951109@gmail.com
-<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
+<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#-menu)
 
 ## ⚠️ Disclaimer
 
@@ -105,4 +105,4 @@ If you have any questions, feel free to contact us at steven951109@gmail.com
    Weverse and its related trademarks, logos, and content are owned by HYBE Corporation. This bot does not claim ownership of its content and does not intend to infringe on any related rights.
 
 By using this bot, you agree to the above terms and understand that the use of the service is at your own risk.
-<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
+<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#-menu)
