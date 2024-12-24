@@ -10,7 +10,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/bot.PNG?token=GHSAT0AAAAAAC4LS6DNULGHCZK7OYKL4KDSZ3KZWKQ" alt="Bot 示意圖" width="600">
 </div>
-這是一個Discord Bot，提供WEVERSE的貼文通知
+這是一個Discord Bot，提供WEVERSE的貼文通知<br>我們提供所有語言，因為會根據你的語言進行翻譯
 
 
 ## 使用方法
