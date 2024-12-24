@@ -9,7 +9,7 @@
 
 ![示意圖](images/bot.PNG)
 
-這是一個Discord Bot，提供WEVERSE的貼文通知。
+這是一個Discord Bot，提供Weverse的貼文通知。
 
 我們提供所有語言，因為會根據你的語言進行翻譯。
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
