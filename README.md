@@ -1,11 +1,11 @@
 ## :books: 目錄  
-1. [:sparkles: 簡介](#功能)  
-2. [:tools: 使用方法](#使用方法)  
-   - [:pencil: 創建通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%89%B5%E5%BB%BA%E9%80%9A%E7%9F%A5)  
-   - [:wastebasket: 刪除通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%88%AA%E9%99%A4%E9%80%9A%E7%9F%A5)  
-3. [:scroll: 服務條款](#服務條款)  
-4. [:warning: 免責聲明](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E)
-## 簡介
+1. [📚 簡介](#功能)  
+2. [🛠️ 使用方法](#使用方法)  
+   - [📝 創建通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%89%B5%E5%BB%BA%E9%80%9A%E7%9F%A5)  
+   - [🗑️ 刪除通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%88%AA%E9%99%A4%E9%80%9A%E7%9F%A5)  
+3. [📜 服務條款](#服務條款)  
+4. [⚠️ 免責聲明](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E)
+## 📚 簡介
 
 ![示意圖](images/bot.PNG)
 
@@ -14,8 +14,8 @@
 我們提供所有語言，因為會根據你的語言進行翻譯。
 
 
-## 使用方法
-### 創建通知
+## 🛠️ 使用方法
+### 📝 創建通知
 #### 步驟 1：邀請機器人到你的伺服器
 
 機器人存活的必要權限:<br>
@@ -43,7 +43,7 @@
 
 ![示意圖](images/createmsg.png)
 
-### 刪除通知
+### 🗑️ 刪除通知
 #### 步驟 1：確保機器人在你的伺服器
 
 機器人存活的必要權限:<br>
@@ -71,7 +71,7 @@
 
 ![示意圖](images/delmsg.png)
 
-## 服務條款
+## 📜 服務條款
 
 我的機器人遵循[開發人員服務條款](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service)。<br>
 我們提供weverse貼文的通知。<br>
@@ -83,7 +83,7 @@
 
 有任何問題歡迎你聯繫我們 steven951109@gmail.com
 
-## 📜 免責聲明
+## ⚠️ 免責聲明
 
 
 1. **非官方專案**
