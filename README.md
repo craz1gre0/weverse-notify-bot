@@ -55,21 +55,17 @@
 >⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
 
 1.在訊息欄中輸入 /weverse
-<div align="center">
-    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/weverse.png?token=GHSAT0AAAAAAC4LS6DNIF7KSMHQVMWFJLVWZ3KZWVA" alt="示意圖" width="850" height="160">
-</div>
+
+![示意圖](images/weverse.png)
 
 2.在notify選項選擇"delete notify"
-<div align="center">
-    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/del.png?token=GHSAT0AAAAAAC4LS6DMQMNTMHBZ5OUTWNNOZ3K2CQA" alt="示意圖" width="900" height="200">
-</div><br>
+
+![示意圖](images/del.png)
 
 3.在group選項選擇你想要刪除通知的團體
-<div align="center">
-    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/delGroup.png?token=GHSAT0AAAAAAC4LS6DN2FPYY64K4AJ3CQASZ3K2C4A" alt="示意圖" width="900" height="250">
-</div><br>
+
+![示意圖](images/delGroup.png)
 
 4.刪除成功
-<div align="center">
-    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/delmsg.png?token=GHSAT0AAAAAAC4LS6DNN2PK6UPXIQKD2YGUZ3K2DFA" alt="示意圖" width="260" height="90">
-</div><br>
+
+![示意圖](images/delmsg.png)
