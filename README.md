@@ -10,7 +10,9 @@
 
 ![示意圖](images/bot.PNG)
 
-這是一個Discord Bot，提供WEVERSE的貼文通知。我們提供所有語言，因為會根據你的語言進行翻譯。
+這是一個Discord Bot，提供WEVERSE的貼文通知。
+
+我們提供所有語言，因為會根據你的語言進行翻譯。
 
 
 ## 使用方法
