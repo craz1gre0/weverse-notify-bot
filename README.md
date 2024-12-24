@@ -27,19 +27,19 @@
 1.在訊息欄中輸入 /weverse
 <div align="center">
     <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/weverse.png?token=GHSAT0AAAAAAC4LS6DNIF7KSMHQVMWFJLVWZ3KZWVA" alt="示意圖" width="850" height="160" align="left">
-</div>
+</div><br>
 
 2.在notify選項選擇"create notify"
 <div align="center">
     <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/create.png?token=GHSAT0AAAAAAC4LS6DM4M5Q5ZE6M7DRNF3WZ3KZ26Q" alt="示意圖" width="900" height="200" align="left">
-</div>
+</div><br>
 
 3.在group選項選擇你想要新增通知的團體
 <div align="center">
     <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/createGroup.png?token=GHSAT0AAAAAAC4LS6DMTLYFZF6UK62S6YNMZ3KZ4WQ" alt="示意圖" width="900" height="250" align="left">
-</div>
+</div><br>
 
 4.新增成功
 <div align="center">
     <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/createmsg.png?token=GHSAT0AAAAAAC4LS6DM4PQLWIQMDD5GUUAYZ3KZ54A" alt="示意圖" width="265" height="80" align="left">
-</div>
+</div><br>
