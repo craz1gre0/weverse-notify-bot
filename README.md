@@ -4,7 +4,7 @@
    - [創建通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%89%B5%E5%BB%BA%E9%80%9A%E7%9F%A5)  
    - [刪除通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%88%AA%E9%99%A4%E9%80%9A%E7%9F%A5)
 3. [服務條款](#服務條款)
-4. [📜免責聲明](#📜 免責聲明)
+4. [📜免責聲明](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E5%85%8D%E8%B2%AC%E8%81%B2%E6%98%8E)
 
 ## 簡介
 
