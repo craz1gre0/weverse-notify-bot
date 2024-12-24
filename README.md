@@ -22,7 +22,6 @@
 >添加反應(Add Reactions)<br>添加文件(Attach Files)<br>嵌入連結(Embed Links)<br>閱讀歷史訊息(Read Message History)<br>發送訊息(Send Messages)<br>使用外部表情符號(Use External Emojis)<br>使用斜槓指令(Use Slash Commands)<br>查看頻道(View Channels)
 
 [邀請機器人連結](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)
-
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 #### 步驟 2：輸入指令
@@ -44,6 +43,7 @@
 4.新增成功
 
 ![示意圖](images/createmsg.png)
+<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ### 🗑️ 刪除通知
 #### 步驟 1：確保機器人在你的伺服器
@@ -72,6 +72,7 @@
 4.刪除成功
 
 ![示意圖](images/delmsg.png)
+<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ## 📜 服務條款
 
@@ -84,6 +85,7 @@
 感謝您使用我的機器人。<br>
 
 有任何問題歡迎你聯繫我們 steven951109@gmail.com
+<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ## ⚠️ 免責聲明
 
@@ -104,3 +106,4 @@
    <br>Weverse 及其相關商標、標誌、內容均為 HYBE Corporation 所有。本機器人不主張對其內容的所有權，也無意侵犯相關權利。
 
 使用本機器人即表示您同意以上條款，並了解使用風險由您自行承擔。
+<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
