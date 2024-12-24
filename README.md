@@ -22,7 +22,6 @@
 >添加反應(Add Reactions)<br>添加文件(Attach Files)<br>嵌入連結(Embed Links)<br>閱讀歷史訊息(Read Message History)<br>發送訊息(Send Messages)<br>使用外部表情符號(Use External Emojis)<br>使用斜槓指令(Use Slash Commands)<br>查看頻道(View Channels)
 
 [邀請機器人連結](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)
-<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 #### 步驟 2：輸入指令
 
