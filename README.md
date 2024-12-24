@@ -9,3 +9,13 @@
     <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/bot.PNG?token=GHSAT0AAAAAAC4LS6DMKFVZQBSPYRN6HLK4Z3KY4UQ" alt="Bot 示意圖" width="600">
 </div>
 這是一個Discord Bot，提供WEVERSE的貼文通知
+
+
+## 使用方法
+
+### 步驟 1：邀請機器人到你的伺服器
+
+機器人存活的必要權限:
+添加反應(Add Reactions),添加文件(Attach Files),嵌入連結(Embed Links),閱讀歷史訊息(Read Message History),發送訊息(Send Messages),使用外部表情符號(Use External Emojis),使用斜槓指令(Use Slash Commands),查看頻道(View Channels)
+
+[邀請機器人連結](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)
