@@ -43,3 +43,35 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/createmsg.png?token=GHSAT0AAAAAAC4LS6DM4PQLWIQMDD5GUUAYZ3KZ54A" alt="示意圖" width="265" height="80">
 </div><br>
+
+### 刪除通知
+#### 步驟 1：確保機器人在你的伺服器
+
+機器人存活的必要權限:<br>
+添加反應(Add Reactions),添加文件(Attach Files),嵌入連結(Embed Links),閱讀歷史訊息(Read Message History),發送訊息(Send Messages),使用外部表情符號(Use External Emojis),使用斜槓指令(Use Slash Commands),查看頻道(View Channels)
+
+[邀請機器人連結](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)
+
+#### 步驟 2：輸入指令
+
+>⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
+
+1.在訊息欄中輸入 /weverse
+<div align="center">
+    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/weverse.png?token=GHSAT0AAAAAAC4LS6DNIF7KSMHQVMWFJLVWZ3KZWVA" alt="示意圖" width="850" height="160">
+</div>
+
+2.在notify選項選擇"delete notify"
+<div align="center">
+    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/del.png?token=GHSAT0AAAAAAC4LS6DMQMNTMHBZ5OUTWNNOZ3K2CQA" alt="示意圖" width="900" height="200">
+</div><br>
+
+3.在group選項選擇你想要刪除通知的團體
+<div align="center">
+    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/delGroup.png?token=GHSAT0AAAAAAC4LS6DN2FPYY64K4AJ3CQASZ3K2C4A" alt="示意圖" width="900" height="250">
+</div><br>
+
+4.刪除成功
+<div align="center">
+    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/delmsg.png?token=GHSAT0AAAAAAC4LS6DNN2PK6UPXIQKD2YGUZ3K2DFA" alt="示意圖" width="260" height="90">
+</div><br>
