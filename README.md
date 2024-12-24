@@ -19,3 +19,7 @@
 添加反應(Add Reactions),添加文件(Attach Files),嵌入連結(Embed Links),閱讀歷史訊息(Read Message History),發送訊息(Send Messages),使用外部表情符號(Use External Emojis),使用斜槓指令(Use Slash Commands),查看頻道(View Channels)
 
 [邀請機器人連結](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)
+
+### 步驟 2：輸入指令
+
+>⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
