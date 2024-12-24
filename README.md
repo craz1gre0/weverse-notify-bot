@@ -1,7 +1,7 @@
 ## 目錄
 1. [簡介](#功能)
 2. [使用方法](#使用方法)  
-   - [新增通知]([##新增通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%88%AA%E9%99%A4%E9%80%9A%E7%9F%A5))  
+   - [新增通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%E5%88%AA%E9%99%A4%E9%80%9A%E7%9F%A5)  
    - [刪除通知](##刪除通知)
 3. [使用條款](#使用條款)
 4. [免責聲明](#免責聲明)
