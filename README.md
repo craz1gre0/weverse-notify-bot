@@ -26,5 +26,5 @@
 
 在訊息欄中輸入 /weverse
 <div align="center">
-    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/weverse.png?token=GHSAT0AAAAAAC4LS6DNIF7KSMHQVMWFJLVWZ3KZWVA" alt="示意圖" width="300" height="200">
+    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/weverse.png?token=GHSAT0AAAAAAC4LS6DNIF7KSMHQVMWFJLVWZ3KZWVA" alt="示意圖" width="900" height="200">
 </div>
