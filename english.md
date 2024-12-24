@@ -79,13 +79,13 @@ Required bot permissions:<br>
 
 ## 📜 Terms of Service
 
-My bot follows [Developer Terms of Service](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service).<br>
-We provide notifications for Weverse posts.<br>
-We only collect the server ID, text channel ID, and your language, which are necessary to send messages and perform translations.<br>
-You should never spam commands or abuse the bot. Please report any bugs to the bot's owner.<br>
-If you abuse the bot or send spam, you will be blocked.<br>
-You may suggest features to add to the bot.<br>
-Thank you for using my bot.<br>
+- My bot follows [Developer Terms of Service](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service).<br>
+- We provide notifications for Weverse posts.<br>
+- We only collect the server ID, text channel ID, and your language, which are necessary to send messages and perform translations.<br>
+- You should never spam commands or abuse the bot. Please report any bugs to the bot's owner.<br>
+- If you abuse the bot or send spam, you will be blocked.<br>
+- You may suggest features to add to the bot.<br>
+- Thank you for using my bot.<br>
 
 If you have any questions, feel free to contact us at steven951109@gmail.com
 <br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#-menu)
