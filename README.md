@@ -24,7 +24,12 @@
 
 >⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
 
-在訊息欄中輸入 /weverse
+1.在訊息欄中輸入 /weverse
 <div align="center">
     <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/weverse.png?token=GHSAT0AAAAAAC4LS6DNIF7KSMHQVMWFJLVWZ3KZWVA" alt="示意圖" width="850" height="160">
+</div>
+
+2.在notify選項選擇"create notify"
+<div align="center">
+    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/create.png?token=GHSAT0AAAAAAC4LS6DM4M5Q5ZE6M7DRNF3WZ3KZ26Q" alt="示意圖" width="850" height="160">
 </div>
