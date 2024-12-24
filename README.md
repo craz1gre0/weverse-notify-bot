@@ -26,5 +26,5 @@
 
 在訊息欄中輸入 /weverse
 <div align="center">
-    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/weverse.png?token=GHSAT0AAAAAAC4LS6DNIF7KSMHQVMWFJLVWZ3KZWVA" alt="Bot 示意圖" width="600">
+    <img src="https://example.com/your-image.png" alt="示意圖" width="300" height="200">
 </div>
