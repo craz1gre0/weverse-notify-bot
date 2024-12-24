@@ -27,8 +27,8 @@
 1.在訊息欄中輸入 /weverse
 <div align="center">
     <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/weverse.png?token=GHSAT0AAAAAAC4LS6DNIF7KSMHQVMWFJLVWZ3KZWVA" alt="示意圖" width="850" height="160" align="left">
-</div><br>
-
+</div>
+<br>
 2.在notify選項選擇"create notify"
 <div align="center">
     <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/create.png?token=GHSAT0AAAAAAC4LS6DM4M5Q5ZE6M7DRNF3WZ3KZ26Q" alt="示意圖" width="900" height="200" align="left">
