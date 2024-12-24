@@ -27,24 +27,20 @@
 >⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
 
 1.在訊息欄中輸入 /weverse
-<div align="center">
-    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/weverse.png?token=GHSAT0AAAAAAC4LS6DNIF7KSMHQVMWFJLVWZ3KZWVA" alt="示意圖" width="850" height="160">
-</div>
+
+![示意圖](images/weverse.png)
 
 2.在notify選項選擇"create notify"
-<div align="center">
-    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/create.png?token=GHSAT0AAAAAAC4LS6DM4M5Q5ZE6M7DRNF3WZ3KZ26Q" alt="示意圖" width="900" height="200">
-</div><br>
+
+![示意圖](images/create.png)
 
 3.在group選項選擇你想要新增通知的團體
-<div align="center">
-    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/createGroup.png?token=GHSAT0AAAAAAC4LS6DMTLYFZF6UK62S6YNMZ3KZ4WQ" alt="示意圖" width="900" height="250">
-</div><br>
+
+![示意圖](images/createGroup.png)
 
 4.新增成功
-<div align="center">
-    <img src="https://raw.githubusercontent.com/craz1gre0/weverse-notify-bot/refs/heads/main/images/createmsg.png?token=GHSAT0AAAAAAC4LS6DM4PQLWIQMDD5GUUAYZ3KZ54A" alt="示意圖" width="265" height="80">
-</div><br>
+
+![示意圖](images/createmsg.png)
 
 ### 刪除通知
 #### 步驟 1：確保機器人在你的伺服器
