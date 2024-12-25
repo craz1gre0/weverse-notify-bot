@@ -1,5 +1,5 @@
 [![GitHub issues by-label](https://img.shields.io/badge/lang-中文-green)](https://github.com/craz1gre0/weverse-notify-bot)
-🌐Translated by AI<br>
+<br>🌐Translated by AI<br>
 ## 📚 Menu
 1. [✨ Introduction](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#-introduction)  
 2. [🛠️ Usage](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#%EF%B8%8F-usage)  
