@@ -1,6 +1,4 @@
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md)
-[![Discord Bots](https://top.gg/api/widget/1006520438865801296.svg)(https://top.gg/bot/1314971413769359370)
-
 
 ## 📚 目錄  
 1. [✨ 簡介](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-簡介)  
