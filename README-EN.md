@@ -105,7 +105,7 @@ If you have any questions, feel free to contact us at steven951109@gmail.com
    - Users must comply with Weverse's terms of service and are responsible for their actions.
 
 4. **Copyright and Trademarks**  
-   Weverse and its related trademarks, logos, and content are owned by HYBE Corporation. This bot does not claim ownership of its content and does not intend to infringe on any related rights.
+   Weverse and SM and its related trademarks, logos, and content are owned by HYBE Corporation. This bot does not claim ownership of its content and does not intend to infringe on any related rights.
 
 By using this bot, you agree to the above terms and understand that the use of the service is at your own risk.
 <br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#-menu)
