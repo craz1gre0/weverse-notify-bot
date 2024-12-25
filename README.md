@@ -1,4 +1,4 @@
-[🌐Readme in English](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md)<br>
+[🌐Readme in English](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md)<br>
 ## 📚 目錄  
 1. [✨ 簡介](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-簡介)  
 2. [🛠️ 使用方法](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-使用方法)  
