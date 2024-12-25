@@ -93,7 +93,7 @@ If you have any questions, feel free to contact us at steven951109@gmail.com
 ## ⚠️ Disclaimer
 
 1. **Unofficial Project**  
-   This bot is an unofficial project developed by an individual and is not affiliated with or endorsed by Weverse or its parent company. It has not been authorized or recognized by them.
+   This bot is an unofficial project developed by an individual and is not affiliated with or endorsed by Weverse and SM or its parent company. It has not been authorized or recognized by them.
 
 2. **Liability Scope**  
    - This bot provides notification services for Weverse posts based on publicly accessible information.  
