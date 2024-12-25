@@ -1,4 +1,4 @@
-[![GitHub issues by-label](https://img.shields.io/badge/lang-中文-green)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md)
+[![GitHub issues by-label](https://img.shields.io/badge/%E9%96%B1%E8%AE%80-%E4%B8%AD%E6%96%87-green)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md)
 <br>🌐Translated by AI<br>
 ## 📚 Menu
 1. [✨ Introduction](https://github.com/craz1gre0/weverse-notify-bot/blob/main/english.md#-introduction)  
