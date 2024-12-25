@@ -106,7 +106,7 @@
    - 使用者須遵守 Weverse 的使用條款，並自行承擔相關行為責任。
 
 4. **版權與商標**
-   <br>Weverse 及 SM 及其相關商標、標誌、內容均為 HYBE Corporation 所有。本機器人不主張對其內容的所有權，也無意侵犯相關權利。
+   <br>Weverse 和 SM 及其相關商標、標誌、內容均為 HYBE Corporation 所有。本機器人不主張對其內容的所有權，也無意侵犯相關權利。
 
 使用本機器人即表示您同意以上條款，並了解使用風險由您自行承擔。
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
