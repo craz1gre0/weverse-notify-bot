@@ -1,4 +1,5 @@
-https://img.shields.io/badge/lang-English-orange%20?link=https%3A%2F%2Fgithub.com%2Fcraz1gre0%2Fweverse-notify-bot%2Fblob%2Fmain%2FREADME-EN.md
+[![GitHub issues by-label](https://img.shields.io/badge/lang-English-orange%20?link=https%3A%2F%2Fgithub.com%2Fcraz1gre0%2Fweverse-notify-bot%2Fblob%2Fmain%2FREADME-EN.md)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md)
+
 
 ## 📚 目錄  
 1. [✨ 簡介](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-簡介)  
