@@ -86,6 +86,8 @@
 1.在訊息欄中輸入 /notify list
 
 ![示意圖](images/notify_list.png)
+<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
+
 
 ### 🔄 重置你的所有通知
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
@@ -95,6 +97,8 @@
 1.在訊息欄中輸入 /notify reset
 
 ![示意圖](images/notify_reset.png)
+<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
+
 
 ### 📶 查看連線狀態
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
@@ -102,6 +106,8 @@
 1.在訊息欄中輸入 /ping
 
 ![示意圖](images/ping.png)
+<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
+
 
 ### 🆓 給我建議
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
@@ -109,6 +115,8 @@
 1.在訊息欄中輸入 /give me advice
 
 ![示意圖](images/advice.png)
+<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
+
 
 ## 📜 服務條款
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
