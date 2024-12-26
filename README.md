@@ -5,7 +5,7 @@
 2. [🛠️ 使用方法](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-使用方法)  
    - [📝 創建通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-創建通知)  
    - [🗑️ 刪除通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-刪除通知)  
-   - [🔍 查看你有哪些通知(通知列表)](#🔍 查看你有哪些通知(通知列表))
+   - [🔍 查看你有哪些通知(通知列表)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-查看你有哪些通知(通知列表))
    - [🔄 重置你的所有通知](
    - [📶 查看連線狀態](
    - [📎 邀請機器人](
