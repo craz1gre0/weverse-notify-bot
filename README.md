@@ -13,7 +13,7 @@
 3. [📜 服務條款](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-服務條款)  
 4. [⚠️ 免責聲明](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-免責聲明)
 ## ✨ 簡介
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-introduction)
 
 ![示意圖](images/bot.PNG)
 
@@ -24,9 +24,9 @@
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ## 🛠️ 使用方法
-
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#%EF%B8%8F-how-to-use)
 ### 📎 邀請機器人
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-invite-the-bot)
 
 ⚠️ **注意：你必須確保機器人在你的伺服器裡才能使用機器人** <br>
 
@@ -39,7 +39,7 @@
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ### 📝 創建通知
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-create-notifications)
 
 ⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
 
@@ -61,7 +61,7 @@
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ### 🗑️ 刪除通知
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#%EF%B8%8F-delete-notifications)
 
 ⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
 
@@ -83,14 +83,14 @@
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ### 🔍 查看你有哪些通知(通知列表)
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-view-your-notifications-notification-list)
 
 在訊息欄中輸入 /notify_list
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 
 ### 🔄 重置你的所有通知
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-reset-all-notifications)
 
 ⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
 ⚠️ **注意：這將立即刪除你伺服器所有通知**
@@ -100,14 +100,14 @@
 
 
 ### 📶 查看連線狀態
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-check-connection-status)
 
 在訊息欄中輸入 /ping
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 
 ### 💬 給我建議與回饋
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-feedback-and-suggestions)
 
 在訊息欄中輸入 /feedback [回饋與建議]
 
@@ -116,7 +116,7 @@
 
 
 ## 📜 服務條款
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-terms-of-service)
 
 - 我的機器人遵循[開發人員服務條款](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service)。<br>
 - 我們提供weverse貼文的通知。<br>
@@ -130,7 +130,7 @@
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ## ⚠️ 免責聲明
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#%EF%B8%8F-disclaimer)
 
 
 1. **非官方專案**
