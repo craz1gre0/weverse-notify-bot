@@ -13,7 +13,7 @@
 3. [📜 服務條款](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-服務條款)  
 4. [⚠️ 免責聲明](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-免責聲明)
 ## ✨ 簡介
-
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]
 ![示意圖](images/bot.PNG)
 
 這是一個Discord Bot，提供Weverse的貼文通知。
