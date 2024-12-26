@@ -3,12 +3,12 @@
 ## 📚 目錄  
 1. [✨ 簡介](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-簡介)  
 2. [🛠️ 使用方法](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-使用方法)  
+   - [📎 邀請機器人](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-邀請機器人)
    - [📝 創建通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-創建通知)  
    - [🗑️ 刪除通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-刪除通知)  
    - [🔍 查看你有哪些通知(通知列表)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-查看你有哪些通知通知列表)
    - [🔄 重置你的所有通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-重置你的所有通知)
    - [📶 查看連線狀態](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-查看連線狀態)
-   - [📎 邀請機器人](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-邀請機器人)
    - [🆓 給我建議](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-給我建議)
 3. [📜 服務條款](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-服務條款)  
 4. [⚠️ 免責聲明](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-免責聲明)
@@ -32,7 +32,7 @@
 >添加反應(Add Reactions)<br>添加文件(Attach Files)<br>嵌入連結(Embed Links)<br>閱讀歷史訊息(Read Message History)<br>發送訊息(Send Messages)<br>使用外部表情符號(Use External Emojis)<br>使用斜槓指令(Use Slash Commands)<br>查看頻道(View Channels)
 
 [邀請機器人連結](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)
-
+<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ### 📝 創建通知
 
