@@ -109,9 +109,9 @@
 ### 💬 給我建議與回饋
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
-在訊息欄中輸入 /feedback ［你想對我說的話]
+在訊息欄中輸入 /feedback [回饋與建議]
 
-![示意圖](images/advice.png)
+![示意圖](images/feedback.png)
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 
