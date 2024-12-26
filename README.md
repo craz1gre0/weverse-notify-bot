@@ -35,7 +35,7 @@
 
 [邀請機器人連結](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)
 
-或者你可以使用 /invite 取得邀請機器人連結
+或者你可以使用 `/invite` 取得邀請機器人連結
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ### 📝 創建通知
@@ -43,7 +43,7 @@
 
 ⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
 
-1.在訊息欄中輸入 /weverse
+1.在訊息欄中輸入 `/weverse`
 
 ![示意圖](images/weverse.png)
 
@@ -65,7 +65,7 @@
 
 ⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
 
-1.在訊息欄中輸入 /weverse
+1.在訊息欄中輸入 `/weverse`
 
 ![示意圖](images/weverse.png)
 
@@ -85,7 +85,7 @@
 ### 🔍 查看你有哪些通知(通知列表)
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-view-your-notifications-notification-list)
 
-在訊息欄中輸入 /notify_list
+在訊息欄中輸入 `/notify_list`
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 
@@ -95,21 +95,21 @@
 ⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
 ⚠️ **注意：這將立即刪除你伺服器所有通知**
 
-在訊息欄中輸入 /notify_reset
+在訊息欄中輸入 `/notify_reset`
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 
 ### 📶 查看連線狀態
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-check-connection-status)
 
-在訊息欄中輸入 /ping
+在訊息欄中輸入 `/ping`
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 
 ### 💬 給我建議與回饋
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-feedback-and-suggestions)
 
-在訊息欄中輸入 /feedback [回饋與建議]
+在訊息欄中輸入 `/feedback [回饋與建議]`
 
 ![示意圖](images/feedback.png)
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
