@@ -35,7 +35,7 @@
 
 [邀請機器人連結](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)
 
-或者你可以對機器人使用 /invite 取得邀請機器人連結
+或者你可以使用 /invite 取得邀請機器人連結
 
 ![示意圖](images/invite.png)
 
@@ -88,7 +88,7 @@
 ### 🔍 查看你有哪些通知(通知列表)
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
-1.在訊息欄中輸入 /notify list
+在訊息欄中輸入 /notify list
 
 ![示意圖](images/notify_list.png)
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
@@ -99,7 +99,7 @@
 
 ⚠️ **注意：這將立即刪除你伺服器所有通知**
 
-1.在訊息欄中輸入 /notify reset
+在訊息欄中輸入 /notify reset
 
 ![示意圖](images/notify_reset.png)
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
@@ -108,7 +108,7 @@
 ### 📶 查看連線狀態
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
-1.在訊息欄中輸入 /ping
+在訊息欄中輸入 /ping
 
 ![示意圖](images/ping.png)
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
@@ -117,7 +117,7 @@
 ### 💬 給我建議與回饋
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
-1.在訊息欄中輸入 /feedback
+在訊息欄中輸入 /feedback
 
 ![示意圖](images/advice.png)
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
