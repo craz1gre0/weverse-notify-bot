@@ -5,11 +5,11 @@
 2. [🛠️ 使用方法](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-使用方法)  
    - [📝 創建通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-創建通知)  
    - [🗑️ 刪除通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-刪除通知)  
-   - [🔍 查看你有哪些通知(通知列表)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-查看你有哪些通知(通知列表))
-   - [🔄 重置你的所有通知](
-   - [📶 查看連線狀態](
-   - [📎 邀請機器人](
-   - [🆓 給我建議](
+   - [🔍 查看你有哪些通知(通知列表)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-查看你有哪些通知通知列表)
+   - [🔄 重置你的所有通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-重置你的所有通知)
+   - [📶 查看連線狀態](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-查看連線狀態)
+   - [📎 邀請機器人](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-邀請機器人)
+   - [🆓 給我建議](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-給我建議)
 3. [📜 服務條款](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-服務條款)  
 4. [⚠️ 免責聲明](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-免責聲明)
 ## ✨ 簡介
