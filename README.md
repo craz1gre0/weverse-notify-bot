@@ -26,6 +26,7 @@
 ## 🛠️ 使用方法
 
 ### 📎 邀請機器人
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
 ⚠️ **注意：你必須確保機器人在你的伺服器裡才能使用機器人** <br>
 
@@ -36,6 +37,7 @@
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ### 📝 創建通知
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
 ⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
 
@@ -57,6 +59,7 @@
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ### 🗑️ 刪除通知
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
 ⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
 
@@ -78,12 +81,14 @@
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ### 🔍 查看你有哪些通知(通知列表)
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
 1.在訊息欄中輸入 /notify list
 
 ![示意圖](images/notify_list.png)
 
 ### 🔄 重置你的所有通知
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
 ⚠️ **注意：這將立即刪除你伺服器所有通知**
 
@@ -92,18 +97,21 @@
 ![示意圖](images/notify_reset.png)
 
 ### 📶 查看連線狀態
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
 1.在訊息欄中輸入 /ping
 
 ![示意圖](images/ping.png)
 
 ### 🆓 給我建議
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
 1.在訊息欄中輸入 /give me advice
 
 ![示意圖](images/advice.png)
 
 ## 📜 服務條款
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
 - 我的機器人遵循[開發人員服務條款](https://discord.com/developers/docs/policies-and-agreements/developer-terms-of-service)。<br>
 - 我們提供weverse貼文的通知。<br>
@@ -117,6 +125,7 @@
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ## ⚠️ 免責聲明
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
 
 1. **非官方專案**
