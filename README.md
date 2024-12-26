@@ -6,10 +6,10 @@
    - [📎 邀請機器人](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-邀請機器人)
    - [📝 創建通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-創建通知)  
    - [🗑️ 刪除通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-刪除通知)  
-   - [🔍 查看你有哪些通知(通知列表)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-查看你有哪些通知通知列表)
-   - [🔄 重置你的所有通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-重置你的所有通知)
-   - [📶 查看連線狀態](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-查看連線狀態)
-   - [💬 給我建議](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-給我建議)
+   - [🔍 /notify list查看你有哪些通知(通知列表)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-查看你有哪些通知通知列表)
+   - [🔄 /notify reset重置你的所有通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-重置你的所有通知)
+   - [📶 /ping查看連線狀態](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-查看連線狀態)
+   - [💬 /feedback給我建議與回饋](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-給我建議)
 3. [📜 服務條款](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-服務條款)  
 4. [⚠️ 免責聲明](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-免責聲明)
 ## ✨ 簡介
@@ -114,10 +114,10 @@
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 
-### 💬 給我建議
+### 💬 給我建議與回饋
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
 
-1.在訊息欄中輸入 /give me advice
+1.在訊息欄中輸入 /feedback
 
 ![示意圖](images/advice.png)
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
