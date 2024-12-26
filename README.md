@@ -78,17 +78,29 @@
 
 ### 🔍 查看你有哪些通知(通知列表)
 
-在訊息欄中輸入 /notify list
-![示意圖](images/)
+1.在訊息欄中輸入 /notify list
+
+![示意圖](images/notify_list.png)
 
 ### 🔄 重置你的所有通知
-(待建置中)
+
+⚠️ **注意：這將立即刪除你伺服器所有通知**
+
+1.在訊息欄中輸入 /notify reset
+
+![示意圖](images/notify_reset.png)
 
 ### 📶 查看連線狀態
-(待建置中)
+
+1.在訊息欄中輸入 /ping
+
+![示意圖](images/ping.png)
 
 ### 🆓 給我建議
-(待建置中)
+
+1.在訊息欄中輸入 /give me advice
+
+![示意圖](images/advice.png)
 
 ## 📜 服務條款
 
