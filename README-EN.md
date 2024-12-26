@@ -2,17 +2,17 @@
 <br>🌐Translated by AI<br>
 
 ## 📚 Table of Contents  
-1. [✨ Introduction](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-簡介)  
-2. [🛠️ How to Use](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-使用方法)  
-   - [📎 Invite the Bot](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-邀請機器人)
-   - [📝 Create Notifications](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-創建通知)  
-   - [🗑️ Delete Notifications](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-刪除通知)  
-   - [🔍 View Your Notifications (Notification List)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-查看你有哪些通知通知列表)
-   - [🔄 Reset All Notifications](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-重置你的所有通知)
-   - [📶 Check Connection Status](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-查看連線狀態)
-   - [💬 Feedback and Suggestions](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-給我建議與回饋)
-3. [📜 Terms of Service](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-服務條款)  
-4. [⚠️ Disclaimer](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-免責聲明)
+1. [✨ Introduction](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-introduction)  
+2. [🛠️ How to Use](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#%EF%B8%8F-how-to-use)  
+   - [📎 Invite the Bot](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-invite-the-bot)
+   - [📝 Create Notifications](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-create-notifications)  
+   - [🗑️ Delete Notifications](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#%EF%B8%8F-delete-notifications)  
+   - [🔍 View Your Notifications (Notification List)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-view-your-notifications-notification-list)
+   - [🔄 Reset All Notifications](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-reset-all-notifications)
+   - [📶 Check Connection Status](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-check-connection-status)
+   - [💬 Feedback and Suggestions](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-feedback-and-suggestions)
+3. [📜 Terms of Service](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-terms-of-service)  
+4. [⚠️ Disclaimer](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#%EF%B8%8F-disclaimer)
 
 ## ✨ Introduction
 
