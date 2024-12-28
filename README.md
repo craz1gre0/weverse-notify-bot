@@ -85,7 +85,7 @@
 ### 🔍 查看你有哪些通知(通知列表)
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-view-your-notifications-notification-list)
 
-在訊息欄中輸入 `/notify_list`
+在訊息欄中輸入 `/notify list`
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 
@@ -95,7 +95,7 @@
 ⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
 ⚠️ **注意：這將立即刪除你伺服器所有通知**
 
-在訊息欄中輸入 `/notify_reset`
+在訊息欄中輸入 `/notify reset`
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 
