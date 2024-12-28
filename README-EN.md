@@ -89,7 +89,7 @@ Alternatively, you can use the `/invite` command to get the bot invitation link.
 
 ### 🔍 View Your Notifications (Notification List)
 
-Type `/notify_list` in the message bar.  
+Type `/notify list` in the message bar.  
 <br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)
 
 ### 🔄 Reset All Notifications
@@ -97,7 +97,7 @@ Type `/notify_list` in the message bar.
 ⚠️ **Note: You must have admin permissions in the server to use this command.**  
 ⚠️ **Note: This will immediately delete all notifications in your server.**
 
-Type `/notify_reset` in the message bar.  
+Type `/notify reset` in the message bar.  
 <br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)
 
 ### 📶 Check Connection Status
