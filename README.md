@@ -110,6 +110,7 @@
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-feedback-and-suggestions)
 
 在訊息欄中輸入 `/feedback [回饋與建議]`
+<br>⚠️ : **有任何問題請直接使用此指令，我會去私訊您**
 
 ![示意圖](images/feedback.png)
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
