@@ -109,7 +109,7 @@ Type `/ping` in the message bar.
 
 Type `/feedback [Your Feedback and Suggestions]` in the message bar.
 
-⚠️ **Note: If you have any questions, please use this command directly and I will send you a private message**
+⚠️ **Note: If you have any questions, please use this command directly and I will DM you**
 
 ![Example Image](images/feedback.png)  
 <br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)
