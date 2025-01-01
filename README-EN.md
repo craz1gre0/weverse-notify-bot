@@ -22,6 +22,8 @@ This is a Discord bot that provides post notifications for Weverse.
 
 We support all languages as the bot translates messages based on your language settings.  
 <br>[Invite the Bot](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)  
+
+[My discord server](https://discord.gg/tM9XuzPNSd)
 <br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)
 
 ## 🛠️ How to Use
