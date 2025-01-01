@@ -22,6 +22,7 @@
 
 我們提供所有語言，因為會根據你的語言進行翻譯。
 <br>[邀請機器人連結](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)
+<br>[我的discord伺服器](https://discord.gg/tM9XuzPNSd)
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ## 🛠️ 使用方法
