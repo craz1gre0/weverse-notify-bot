@@ -4,8 +4,8 @@
 1. [✨ 簡介](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-簡介)  
 2. [🛠️ 使用方法](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-使用方法)  
    - [📎 邀請機器人](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-邀請機器人)
-   - [📝 創建weverse貼文通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-創建通知)  
-   - 創建weverse直播通知(即將推出)
+   - [📝 創建weverse貼文通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E5%89%B5%E5%BB%BAweverse%E8%B2%BC%E6%96%87%E9%80%9A%E7%9F%A5)  
+   - [創建weverse直播通知](即將推出)
    - [🗑️ 刪除通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#%EF%B8%8F-刪除通知)  
    - [🔍 查看你有哪些通知(通知列表)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-查看你有哪些通知通知列表)
    - [🔄 重置你的所有通知](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-重置你的所有通知)
@@ -63,6 +63,7 @@
 
 ### 🖥️ 創建weverse直播通知
 
+建置中...
 
 ### 🗑️ 刪除通知
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#%EF%B8%8F-delete-notifications)
