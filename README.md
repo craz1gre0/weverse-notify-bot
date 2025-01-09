@@ -21,7 +21,7 @@
 
 ![示意圖](images/bot.PNG)
 
-這是一個Discord Bot，提供Weverse的貼文通知。
+這是一個Discord Bot，提供Weverse的貼文通知和直播通知，還有aespa的個人ig通知。
 
 我們提供所有語言，因為會根據你的語言進行翻譯。
 <br>[邀請機器人連結](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)
