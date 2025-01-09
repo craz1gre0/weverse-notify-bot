@@ -18,7 +18,7 @@
 
 ![Example Image](images/bot.PNG)
 
-This is a Discord bot that provides post notifications for Weverse.
+This is a Discord bot that provides notifications for Weverse posts and live broadcasts, as well as notifications for individual Instagram updates of the aespa members.
 
 We support all languages as the bot translates messages based on your language settings.  
 <br>[Invite the Bot](https://discord.com/oauth2/authorize?client_id=1314971413769359370&permissions=2147863616&integration_type=0&scope=bot)  
