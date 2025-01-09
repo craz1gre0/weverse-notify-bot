@@ -50,7 +50,7 @@
 
 ![示意圖](images/zh/weverse.png)
 
-2.在notify選項選擇"Post Notify Create"
+2.在notify選項選擇 `Post Notify Create`
 
 ![示意圖](images/zh/weversecreatepost.png)
 
@@ -72,7 +72,7 @@
 
 ![示意圖](images/zh/weverse.png)
 
-2.在notify選項選擇"Post Notify Delete"
+2.在notify選項選擇 `Post Notify Delete`
 
 ![示意圖](images/zh/weversedelpost.png)
 
@@ -94,7 +94,7 @@
 
 ![示意圖](images/zh/weverse.png)
 
-2.在notify選項選擇"Live Notify Create"
+2.在notify選項選擇 `Live Notify Create`
 
 ![示意圖](images/zh/weversecreatelive.png)
 
@@ -116,7 +116,7 @@
 
 ![示意圖](images/zh/weverse.png)
 
-2.在notify選項選擇"Live Notify Delete"
+2.在notify選項選擇 `Live Notify Delete`
 
 ![示意圖](images/zh/weversedellive.png)
 
@@ -127,6 +127,28 @@
 4.刪除成功
 
 ![示意圖](images/zh/livedelete.PNG)
+<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
+
+### 創建IG通知
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()
+
+⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
+
+1.在訊息欄中輸入 `/ig通知`
+
+![示意圖](images/zh/ig.png)
+
+2.在notify選項選擇 `Notify Create`
+
+![示意圖](images/zh/igcreatenotify.png)
+
+3.在member選項選擇你想要新增通知的團體
+
+![示意圖](images/zh/igcreatemember.png)
+
+4.新增成功
+
+![示意圖](images/zh/igcreate.PNG)
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ### 🔍 查看你有哪些通知(通知列表)
