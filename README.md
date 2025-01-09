@@ -63,10 +63,6 @@
 ![示意圖](images/zh/postcreate.PNG)
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
-### 🖥️ 創建weverse直播通知
-
-建置中...
-<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 ### 🗑️ 刪除weverse貼文通知
 [![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#%EF%B8%8F-delete-notifications)
 
@@ -87,6 +83,28 @@
 4.刪除成功
 
 ![示意圖](images/zh/postdelete.PNG)
+<br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
+
+### 🖥️ 創建weverse直播通知
+[![GitHub issues by-label]()
+
+⚠️ **注意：你必須確保你擁有此伺服器的管理員權限，你才能看到這項指令。**
+
+1.在訊息欄中輸入 `/weverse通知`
+
+![示意圖](images/zh/weverse.png)
+
+2.在notify選項選擇"Live Notify Create"
+
+![示意圖](images/zh/weversecreatelive.png)
+
+3.在group選項選擇你想要新增通知的團體
+
+![示意圖](images/zh/weversecreatelivegroup.png)
+
+4.新增成功
+
+![示意圖](images/zh/livecreate.PNG)
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ### 🔍 查看你有哪些通知(通知列表)
