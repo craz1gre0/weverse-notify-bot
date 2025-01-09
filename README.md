@@ -48,19 +48,19 @@
 
 1.在訊息欄中輸入 `/weverse`
 
-![示意圖](images/weverse.png)
+![示意圖](images/zh/weverse.png)
 
-2.在notify選項選擇"create notify"
+2.在notify選項選擇"Post Notify Create"
 
-![示意圖](images/create.png)
+![示意圖](images/zh/weversecreatepost.png)
 
 3.在group選項選擇你想要新增通知的團體
 
-![示意圖](images/createGroup.png)
+![示意圖](images/zh/weversecreatepostgroup.png)
 
 4.新增成功
 
-![示意圖](images/createmsg.png)
+![示意圖](images/zh/postcreate.PNG)
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ### 🖥️ 創建weverse直播通知
