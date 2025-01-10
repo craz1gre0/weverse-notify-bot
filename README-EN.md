@@ -47,47 +47,147 @@ Required permissions for the bot:
 Alternatively, you can use the `/invite` command to get the bot invitation link.  
 <br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)
 
-### 📝 Create Notifications
+### 📝 Create Weverse Post Notifications  
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-create-notifications)  
 
-⚠️ **Note: You must have admin permissions in the server to use this command.**
+⚠️ **Note: You must have server administrator permissions to access this command.**  
 
-1. Type `/weverse` in the message bar.
+1. Type `/weverse notify` in the message bar.  
 
-![Example Image](images/weverse.png)
+![Example Image](images/en/weverse.png)  
 
-2. Choose "create notify" from the `notify` option.
+2. Select `Post Notify Create` in the notify option.  
 
-![Example Image](images/create.png)
+![Example Image](images/en/weversecreatepost.png)  
 
-3. Select the group you want to create a notification for in the `group` option.
+3. Choose the group for which you want to add notifications.  
 
-![Example Image](images/createGroup.png)
+![Example Image](images/en/weversecreatepostgroup.png)  
 
-4. Success message will appear.
+4. Successfully created.  
 
-![Example Image](images/createmsg.png)  
-<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)
+![Example Image](images/en/postcreate.PNG)  
+<br><br>[🔝 Back to Index](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)  
 
-### 🗑️ Delete Notifications
+---
 
-⚠️ **Note: You must have admin permissions in the server to use this command.**
+### 🗑️ Delete Weverse Post Notifications  
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#%EF%B8%8F-delete-notifications)  
 
-1. Type `/weverse` in the message bar.
+⚠️ **Note: You must have server administrator permissions to access this command.**  
 
-![Example Image](images/weverse.png)
+1. Type `/weverse notify` in the message bar.  
 
-2. Choose "delete notify" from the `notify` option.
+![Example Image](images/en/weverse.png)  
 
-![Example Image](images/del.png)
+2. Select `Post Notify Delete` in the notify option.  
 
-3. Select the group you want to delete notifications for in the `group` option.
+![Example Image](images/en/weversedelpost.png)  
 
-![Example Image](images/delGroup.png)
+3. Choose the group for which you want to delete notifications.  
 
-4. Success message will appear.
+![Example Image](images/en/weversedelpostgroup.png)  
 
-![Example Image](images/delmsg.png)  
-<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)
+4. Successfully deleted.  
+
+![Example Image](images/en/postdelete.PNG)  
+<br><br>[🔝 Back to Index](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)  
+
+---
+
+### 🖥️ Create Weverse Live Notifications  
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()  
+
+⚠️ **Note: You must have server administrator permissions to access this command.**  
+
+1. Type `/weverse notify` in the message bar.  
+
+![Example Image](images/en/weverse.png)  
+
+2. Select `Live Notify Create` in the notify option.  
+
+![Example Image](images/en/weversecreatelive.png)  
+
+3. Choose the group for which you want to add live notifications.  
+
+![Example Image](images/en/weversecreatelivegroup.png)  
+
+4. Successfully created.  
+
+![Example Image](images/en/livecreate.PNG)  
+<br><br>[🔝 Back to Index](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)  
+
+---
+
+### 🗑️ Delete Weverse Live Notifications  
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()  
+
+⚠️ **Note: You must have server administrator permissions to access this command.**  
+
+1. Type `/weverse notify` in the message bar.  
+
+![Example Image](images/en/weverse.png)  
+
+2. Select `Live Notify Delete` in the notify option.  
+
+![Example Image](images/en/weversedellive.png)  
+
+3. Choose the group for which you want to delete live notifications.  
+
+![Example Image](images/en/weversedellivegroup.png)  
+
+4. Successfully deleted.  
+
+![Example Image](images/en/livedelete.PNG)  
+<br><br>[🔝 Back to Index](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)  
+
+---
+
+### 📄 Create IG Notifications  
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()  
+
+⚠️ **Note: You must have server administrator permissions to access this command.**  
+
+1. Type `/ig notify` in the message bar.  
+
+![Example Image](images/en/ig.png)  
+
+2. Select `Notify Create` in the notify option.  
+
+![Example Image](images/en/igcreatenotify.png)  
+
+3. Choose the member for whom you want to create notifications.  
+
+![Example Image](images/en/igcreatemember.png)  
+
+4. Successfully created.  
+
+![Example Image](images/en/igcreate.PNG)  
+<br><br>[🔝 Back to Index](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)  
+
+---
+
+### 🗑️ Delete IG Notifications  
+[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()  
+
+⚠️ **Note: You must have server administrator permissions to access this command.**  
+
+1. Type `/ig notify` in the message bar.  
+
+![Example Image](images/en/ig.png)  
+
+2. Select `Notify Delete` in the notify option.  
+
+![Example Image](images/en/igdelnotify.png)  
+
+3. Choose the member for whom you want to delete notifications.  
+
+![Example Image](images/en/igdelmember.png)  
+
+4. Successfully deleted.  
+
+![Example Image](images/en/igdelete.PNG)  
+<br><br>[🔝 Back to Index](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ### 🔍 View Your Notifications (Notification List)
 
