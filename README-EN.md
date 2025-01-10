@@ -52,7 +52,6 @@ Alternatively, you can use the `/invite` command to get the bot invitation link.
 <br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)
 
 ### 📝 Create Weverse Post Notifications  
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-create-notifications)  
 
 ⚠️ **Note: You must have server administrator permissions to access this command.**  
 
@@ -76,7 +75,6 @@ Alternatively, you can use the `/invite` command to get the bot invitation link.
 ---
 
 ### 🗑️ Delete Weverse Post Notifications  
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#%EF%B8%8F-delete-notifications)  
 
 ⚠️ **Note: You must have server administrator permissions to access this command.**  
 
@@ -100,7 +98,6 @@ Alternatively, you can use the `/invite` command to get the bot invitation link.
 ---
 
 ### 🖥️ Create Weverse Live Notifications  
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()  
 
 ⚠️ **Note: You must have server administrator permissions to access this command.**  
 
@@ -124,7 +121,6 @@ Alternatively, you can use the `/invite` command to get the bot invitation link.
 ---
 
 ### 🗑️ Delete Weverse Live Notifications  
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()  
 
 ⚠️ **Note: You must have server administrator permissions to access this command.**  
 
@@ -147,8 +143,7 @@ Alternatively, you can use the `/invite` command to get the bot invitation link.
 
 ---
 
-### 📄 Create IG Notifications  
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()  
+### 📄 Create IG Notifications   
 
 ⚠️ **Note: You must have server administrator permissions to access this command.**  
 
@@ -172,7 +167,6 @@ Alternatively, you can use the `/invite` command to get the bot invitation link.
 ---
 
 ### 🗑️ Delete IG Notifications  
-[![GitHub issues by-label](https://img.shields.io/badge/Read-English-orange%20)]()  
 
 ⚠️ **Note: You must have server administrator permissions to access this command.**  
 
