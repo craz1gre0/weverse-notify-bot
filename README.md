@@ -222,7 +222,6 @@
 - 您可以建議我們應該為機器人添加哪些功能。<br>
 - 感謝您使用我的機器人。<br>
 
-有任何問題歡迎你聯繫我們 steven951109@gmail.com
 <br><br>[🔝 回到目錄](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
 
 ## ⚠️ 免責聲明
