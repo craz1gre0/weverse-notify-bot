@@ -67,7 +67,7 @@ Alternatively, you can use the `/invite` command to get the bot invitation link.
 4. Successfully created.  
 
 ![Example Image](images/en/postcreate.PNG)  
-<br><br>[🔝 Back to Index](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)  
+<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)  
 
 ---
 
@@ -91,7 +91,7 @@ Alternatively, you can use the `/invite` command to get the bot invitation link.
 4. Successfully deleted.  
 
 ![Example Image](images/en/postdelete.PNG)  
-<br><br>[🔝 Back to Index](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)  
+<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)  
 
 ---
 
@@ -115,7 +115,7 @@ Alternatively, you can use the `/invite` command to get the bot invitation link.
 4. Successfully created.  
 
 ![Example Image](images/en/livecreate.PNG)  
-<br><br>[🔝 Back to Index](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)  
+<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)  
 
 ---
 
@@ -139,7 +139,7 @@ Alternatively, you can use the `/invite` command to get the bot invitation link.
 4. Successfully deleted.  
 
 ![Example Image](images/en/livedelete.PNG)  
-<br><br>[🔝 Back to Index](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)  
+<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)  
 
 ---
 
@@ -163,7 +163,7 @@ Alternatively, you can use the `/invite` command to get the bot invitation link.
 4. Successfully created.  
 
 ![Example Image](images/en/igcreate.PNG)  
-<br><br>[🔝 Back to Index](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)  
+<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)  
 
 ---
 
@@ -187,7 +187,7 @@ Alternatively, you can use the `/invite` command to get the bot invitation link.
 4. Successfully deleted.  
 
 ![Example Image](images/en/igdelete.PNG)  
-<br><br>[🔝 Back to Index](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README.md#-%E7%9B%AE%E9%8C%84)
+<br><br>[🔝 Back to Table of Contents](https://github.com/craz1gre0/weverse-notify-bot/blob/main/README-EN.md#-table-of-contents)
 
 ### 🔍 View Your Notifications (Notification List)
 
